@@ -6,4 +6,7 @@ public class Constants {
 	
 	public static final String SytaxUrl="http://jiravm.centralus.cloudapp.azure.com:8081/index.html";
 
+	
+	public static final String ToolsQA= "https://www.toolsqa.com/automation-practice-form/";
+	
 }
